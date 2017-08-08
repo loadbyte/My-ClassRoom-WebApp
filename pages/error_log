@@ -1,0 +1,2 @@
+[15-Mar-2016 10:01:00 UTC] PHP Fatal error:  Call to undefined function getImagesCounts() in /home/svitpolytechnic/public_html/wildmeadows.in/blinkeyestudioblog/wildmeadowsgallery/pages/index.php on line 21
+[15-Mar-2016 10:38:57 UTC] PHP Fatal error:  Call to undefined function getImagesCounts() in /home/svitpolytechnic/public_html/wildmeadows.in/blinkeyestudioblog/wildmeadowsgallery/pages/index.php on line 21
