@@ -3,18 +3,6 @@
 Myclassroom app with reCaptcha supporting features like course creation, group creation, adding assignments, etc and different levels of users like TA, Lecturer, students.
 The reCAPTCHA system is used to annotate Mess food images by displaying a sample image and letting the users to select similar images for verification.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
 
 Follow below steps to setup the Myclassroom app in your local system.
