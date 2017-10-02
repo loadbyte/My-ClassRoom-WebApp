@@ -3,7 +3,7 @@
 Myclassroom app with reCaptcha supporting features like course creation, group creation, adding assignments, etc and different levels of users like TA, Lecturer, students.
 
 ### Demo
-  [Click me for Demo](https://sitekara.com/myclass/)
+  [Click me for Demo](http://sitekara.com/myclass/)
 
 ### reCAPTCHA System
 
