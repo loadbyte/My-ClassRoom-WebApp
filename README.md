@@ -1,6 +1,7 @@
 # My-ClassRoom-WebApp
 
-One Paragraph of project description goes here
+Myclassroom app with reCaptcha supporting features like course creation, group creation, adding assignments, etc and different levels of users like TA, Lecturer, students.
+The reCAPTCHA system is used to annotate Mess food images by displaying a sample image and letting the users to select similar images for verification.
 
 ## Getting Started
 
@@ -16,9 +17,17 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Follow below steps to setup the Myclassroom app in your local system.
 
-Say what the step will be
+* Install xampp in windows or Install lampp in ubuntu
+* Download this web app and copy it to htdocs folder in xampp or lampp folder
+* Create database as "dev_myclass" in phpmyadmin(with out quotes)
+* Create user as "myclass" , password as "myclass" with all permission(with out quotes)
+* In phpmyadmin select the dev_myclass database and import dev_myclass.sql from sql_db folder.
+* launch the myclass app by 
+ ```bash
+  http://localhost/myclass
+  ``` 
 
 ```
 Give the example
